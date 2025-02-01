@@ -5,7 +5,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/JavierDominguezGomez/MASCrypt)
 ![Python](https://img.shields.io/badge/python-v3.6+-blue)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JavierDominguezGomez/MASCrypt)
-[![Build Status](https://travis-ci.org/JavierDominguezGomez/MASCrypt.svg?branch=master)](https://travis-ci.org/JavierDominguezGomez/MASCrypt)
+<!-- [![Build Status](https://travis-ci.org/JavierDominguezGomez/MASCrypt.svg?branch=master)](https://travis-ci.org/JavierDominguezGomez/MASCrypt) -->
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-yellow.svg)
 
 ## Basic Overview
